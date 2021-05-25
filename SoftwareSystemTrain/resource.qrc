@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>coffee.ico</file>
+        <file>d15.ico</file>
+        <file>d7.ico</file>
+    </qresource>
+</RCC>
